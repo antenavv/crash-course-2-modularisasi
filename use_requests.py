@@ -37,6 +37,5 @@ try:
         print (f'Woops, ada kesalahan request {response.status_code}')
 except Exception as e:
     print (f'There is an error {e}')
-print('Program ended')
-
+print('Program ended!')
 
